@@ -1,0 +1,19 @@
+{
+  "name": "openge",
+  "version": "0.0.1",
+  "description": "Open Source Game Engine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://qorcjftns:Cjftns119@@github.com/qorcjftns/OpenGE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qorcjftns/OpenGE/issues"
+  },
+  "homepage": "https://github.com/qorcjftns/OpenGE#readme"
+}
